@@ -1,5 +1,5 @@
 Syauqi Developer
 - Consistent to always learn
 - Developing a project
-- Apply Project
+- Apply project to real use case
 - Maintance
