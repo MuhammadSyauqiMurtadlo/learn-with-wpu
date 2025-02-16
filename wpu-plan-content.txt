@@ -3,9 +3,11 @@ CONTENT PLAN WPU
 - Learn JS
   * ES6
   * Framework Javascript
-    - Angular
+    - Vue JS
     - React JS
+- Basic Data Structure
 - PHP Framework
   - Laravel
 - Node JS
 - Express JS
+- Python
