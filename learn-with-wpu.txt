@@ -1,4 +1,4 @@
-Syauqi Developer
+Syauqi | Backend Developer
 - Consistent to always learn
 - Developing a project
 - Apply project to real use case
